@@ -1,3 +1,3 @@
-# Japanese-Word-Lists
+# Word-Lists-And-Examples
 
-This directory is employed to store summarized, additional word lists, which are provided by Ms. Yoko on Bilibili.  
+This directory is employed to store summarized, additional word lists from various sources. 
